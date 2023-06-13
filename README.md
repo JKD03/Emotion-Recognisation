@@ -15,5 +15,6 @@
 * Surprised
 ![Screenshot (128)](https://github.com/JKD03/Emotion-Recognisation/assets/109353553/fb7eb23f-b7c1-465a-ac9f-7139b72a8513)
 
-## Contributor
-Ankur Garg
+## Developers
+* Ankur Garg
+* Jaskarandeep Singh
